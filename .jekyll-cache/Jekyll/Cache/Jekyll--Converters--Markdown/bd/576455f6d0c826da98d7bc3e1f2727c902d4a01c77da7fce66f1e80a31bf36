@@ -1,0 +1,19 @@
+I"À<h1 id="abstract">Abstract</h1>
+<p>A variety of effective face-swap and face-reenactment methods have been publicized in recent years, democratizing the face synthesis technology to a great extent. Videos generated as such have come to be called deepfakes with a negative connotation, for various social problems they have caused. Facing the emerging threat of deepfakes, we have built the Korean DeepFake Detection Dataset (KoDF), a large-scale collection of synthesized and real videos focused on Korean subjects. In this paper, we provide a detailed description of methods used to construct the dataset, experimentally show the discrepancy between the distributions of KoDF and existing deepfake detection datasets, and underline the importance of using multiple datasets for real-world generalization. KoDF is publicly available at <a href="https://moneybrain-research.github.io/kodf">https://moneybrain-research.github.io/kodf</a> in its entirety (i.e. real clips, synthesized clips, clips with adversarial attack, and metadata).</p>
+
+<h1 id="download">Download</h1>
+<p>Please fill out <a href="https://forms.gle/shMTScF3yBCiVnTe7">this form</a> to download KoDF. If your request has been approved, we will send you the download link. Koreans should download KoDF from <a href="https://aihub.or.kr/aidata/8005">https://aihub.or.kr/aidata/8005</a>. If you have any questions, please contact us at <a href="mailto:kodf@deepbrainai.io">kodf@deepbrainai.io</a>.</p>
+
+<h1 id="acknowledgement">Acknowledgement</h1>
+<p>We gratefully acknowledge that KoDF was built as part of the AI Training Data Construction Project 2020 hosted by the Ministry of Science and ICT (MSIT) and supported by the National Information Society Agency (NIA) of South Korea. This research was partly supported by the Institute of Information &amp; Communications Technology Planning &amp; Evaluation (IITP) grant funded by MSIT (2021-0-00888).</p>
+
+<h1 id="citation">Citation</h1>
+
+<pre><code class="language-plain">@article{kwon2021kodf,
+    title={KoDF: A Large-scale Korean DeepFake Detection Dataset},
+    author={Patrick Kwon and Jaeseong You and Gyuhyeon Nam and Sungwoo Park and Gyeongsu Chae},
+    year={2021},
+    journal={arXiv:2103.10094}
+}
+</code></pre>
+:ET
