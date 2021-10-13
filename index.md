@@ -14,10 +14,12 @@ We gratefully acknowledge that KoDF was built as part of the AI Training Data Co
 # Citation 
 
 ```plain
-@article{kwon2021kodf,
-    title={KoDF: A Large-scale Korean DeepFake Detection Dataset},
-    author={Patrick Kwon and Jaeseong You and Gyuhyeon Nam and Sungwoo Park and Gyeongsu Chae},
-    year={2021},
-    journal={arXiv:2103.10094}
+@InProceedings{Kwon_2021_ICCV,
+    author    = {Kwon, Patrick and You, Jaeseong and Nam, Gyuhyeon and Park, Sungwoo and Chae, Gyeongsu},
+    title     = {KoDF: A Large-Scale Korean DeepFake Detection Dataset},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {10744-10753}
 }
 ```
